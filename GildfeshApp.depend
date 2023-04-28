@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1682676435 source:d:\my projects\gildfeshapp\main.c
+	<stdio.h>
+	<stdlib.h>
+
